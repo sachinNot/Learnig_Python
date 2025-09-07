@@ -3,5 +3,3 @@
 # chai("ginger tea")
 
 
-# %%
-print("Hello, Python cell!")
