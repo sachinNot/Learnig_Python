@@ -7,8 +7,3 @@ finally:
     file.close()
 
     with open('youtube.txt' ,'w') as file:
-         
-
-
-
-    
